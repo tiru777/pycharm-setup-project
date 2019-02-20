@@ -1,4 +1,5 @@
 def fun(n):
+    """finding factorials"""
    if n<=1:
        return 1
    else:
