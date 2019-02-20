@@ -4,4 +4,4 @@ def fun(n):
    else:
        return n*fun(n-1)
 n=int(input("factorial number:"))
-fun(n)
+print(fun(n))
